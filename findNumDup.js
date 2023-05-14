@@ -21,3 +21,4 @@ const findDup = (arr) => {
 //Test the function
 console.log(findDup([5,4,3,2,1,1]));
 console.log(findDup([43, 45, 34, 56, 76, 34]));
+console.log(findDup([4, 4, 4, 6, 6, 4]));
